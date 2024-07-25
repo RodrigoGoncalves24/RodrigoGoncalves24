@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, dev amigo. Bem-vindo/a!👋
+ <P>Meu nome é <Strong>Rodrigo Gonçalves</Strong>, atualmente estou cursando o terceiro semestre de <Strong>>Ciências da computação</Strong. Tenho o grande interesse em me tornar um desenvolvedor de jogos, unido minha duas grandes paixão, programar 💻 e jogar 🎮. Sinra-se a vontade para explorar os repositórios. </P> <br>
+  
+Atualmente trabalho como estagiário nas mesma empresa a qual entrei como jovem aprendiz, acredito que isso possa mostrar o quão eles gostam do meu trabalho.🙂 <br>
+Estou voltando a mexer na plataforma após notar que eu não havia postado nada a um tempo 😅, ajustei alguns repositórios antigos e estou pronto para subir novos. 🤩 <br>
+Atualmente estou em busca de um estágio na área de TI, quero começar a trilha meu futuro como desenvolvedor e explorar mais dessa vasta área.
 
 <!--
 **RodrigoGoncalves24/RodrigoGoncalves24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
