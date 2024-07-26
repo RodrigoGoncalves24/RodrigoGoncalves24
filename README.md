@@ -1,15 +1,38 @@
 ## Hello, dev amigo. Bem-vindo/a!👋
- <P>Meu nome é <Strong>Rodrigo Gonçalves</Strong>, atualmente estou cursando o terceiro semestre de <Strong>Ciências da computação</Strong.Tenho o grande interesse em me tornar um desenvolvedor de jogos, unido minha duas grandes paixão, programar 💻 e jogar 🎮. Sinta-se a vontade para explorar os repositórios.</P> <br>
+ <P>Meu nome é <Strong>Rodrigo Gonçalves</Strong>, atualmente estou cursando o terceiro semestre de <Strong>Ciências da computação</Strong>.Tenho o grande interesse em me tornar um desenvolvedor de jogos, unido minha duas grandes paixão, programar 💻 e jogar 🎮. Sinta-se a vontade para explorar os repositórios.</P> <br>
 
- <ul>Sobre mim: 
-<li>Atualmente trabalho como estagiário na mesma empresa a qual entrei como jovem aprendiz, acredito que isso possa mostrar o quão eles gostam do meu trabalho. 🙂 </li>
+<div>
+<a href="https://github.com/RodrigoGoncalves24">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGoncalves24&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGoncalves24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+![Snake animation](https://github.com/RodrigoGoncalves24/RodrigoGoncalves24/blob/output/github-contribution-grid-snake.svg)
+
+
+## Sobre mim:
+ <ul> 
 <li>Atualmente estou em busca de um estágio na área de TI, quero começar a trilha meu futuro como desenvolvedor e explorar mais dessa vasta área. 💻 </li>
-<li>Tenho uma grande facilidade no aprendizado, uma parte do meu conhecimento em front veio apenas de vídeos e cursos online, os quais me fizeram explorar as linguagem e buscar a desenvolver meus próprios projetos. 👨‍💻 </li>
-<li>Me considero uma pessoa super organizada, lido bem com rotinas e com horários. ⏲️ </li>
+<li>Tenho grande facilidade no aprendizado, uma parte do meu conhecimento em front veio apenas de vídeos e cursos online, os quais me fizeram explorar as linguagem e buscar a desenvolver meus próprios projetos. 👨‍💻 </li>
 </ul>
 
-Meu LinkedIn: <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-680058171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">Linkedin </a><br>
-Estou voltando a mexer na plataforma após notar que eu não havia postado nada a um tempo 😅, ajustei alguns repositórios antigos e estou pronto para subir novos. 🤩 
+## Conhecimento em: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+## Estou aprendendo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" height="40"/>
+
+
+## Contatos:
+
+<div>
+<a href="https://www.instagram.com/teh.rodrigo_?igsh=eGF6cWRtcDQ3dXN3" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "rodrigogoncalves2408@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-680058171/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <!--
 **RodrigoGoncalves24/RodrigoGoncalves24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
