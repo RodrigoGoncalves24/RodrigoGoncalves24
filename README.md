@@ -8,7 +8,7 @@
 <li>Me considero uma pessoa super organizada, lido bem com rotinas e com horários. ⏲️ </li>
 </ul>
 
-Meu LinkedIn: <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-680058171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">Linkedin <br>
+Meu LinkedIn: <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-680058171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">Linkedin </a><br>
 Estou voltando a mexer na plataforma após notar que eu não havia postado nada a um tempo 😅, ajustei alguns repositórios antigos e estou pronto para subir novos. 🤩 
 
 <!--
