@@ -1,5 +1,5 @@
 ## Hello, dev amigo. Bem-vindo/a!👋
- <P>Meu nome é <Strong>Rodrigo Gonçalves</Strong>, atualmente estou cursando o terceiro semestre de <Strong>Ciências da computação</Strong>.Tenho o grande interesse em me tornar um desenvolvedor de jogos, unido minha duas grandes paixão, programar 💻 e jogar 🎮. Sinta-se a vontade para explorar os repositórios.</P> <br>
+ <P>Meu nome é <Strong>Rodrigo Gonçalves</Strong>, atualmente estou cursando o quinto semestre de <Strong>Ciências da computação/PUCRS</Strong>.Tenho o grande interesse em me tornar um desenvolvedor de jogos, unido minhas duas grandes paixões, programar 💻 e jogar 🎮. Sinta-se a vontade para explorar os repositórios.</P> <br>
 
 <div>
 <a href="https://github.com/RodrigoGoncalves24">
@@ -10,7 +10,8 @@
 ## Sobre mim:
  <ul> 
 <li>Atualmente estou em busca de um estágio na área de TI, quero começar a trilha meu futuro como desenvolvedor e explorar mais dessa vasta área. 💻 </li>
-<li>Tenho grande facilidade no aprendizado, uma parte do meu conhecimento em front veio apenas de vídeos e cursos online, os quais me fizeram explorar as linguagem e buscar a desenvolver meus próprios projetos. 👨‍💻 </li>
+<li>Tenho grande facilidade no aprendizado, uma parte do meu conhecimento em front-end veio apenas de vídeos e cursos online, os quais me fizeram explorar as linguagem e buscar a desenvolver meus próprios projetos. 👨‍💻 </li>
+<li>Sou uma pessoa curiosa e estou sempre em busca de novos aprendizados e de aperfeçoar o que já sei. </li>
 </ul>
 
 ## Conhecimento em: 
