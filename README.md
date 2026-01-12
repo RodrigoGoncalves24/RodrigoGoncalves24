@@ -1,17 +1,11 @@
 ## Hello, dev amigo. Bem-vindo/a!👋
  <P>Meu nome é <Strong>Rodrigo Gonçalves</Strong>, atualmente estou cursando o quinto semestre de <Strong>Ciências da computação/PUCRS</Strong>.Tenho o grande interesse em me tornar um desenvolvedor de jogos, unido minhas duas grandes paixões, programar 💻 e jogar 🎮. Sinta-se a vontade para explorar os repositórios.</P> <br>
 
-<div>
-<a href="https://github.com/RodrigoGoncalves24">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGoncalves24&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGoncalves24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Sobre mim:
  <ul> 
-<li>Atualmente estou em busca de um estágio na área de TI, quero começar a trilha meu futuro como desenvolvedor e explorar mais dessa vasta área. 💻 </li>
-<li>Tenho grande facilidade no aprendizado, uma parte do meu conhecimento em front-end veio apenas de vídeos e cursos online, os quais me fizeram explorar as linguagem e buscar a desenvolver meus próprios projetos. 👨‍💻 </li>
-<li>Sou uma pessoa curiosa e estou sempre em busca de novos aprendizados e de aperfeçoar o que já sei. </li>
+<li>Atualmente sou estagiário de P&D de Software na empresa AEL Sistemas, onde posso unir minha curiosidade com meu aprendizado. 💻 </li>
+<li>Tenho o costume de dividir meus desafios em pequenas etapas, onde pensar e fazer uma função por vez é muito melhor do que sair fazendo o todo.👨‍💻 </li>
+<li>Me considera uma pessoa autodidata, gosto de explorar novos conhecimentos e questionar os métodos. </li>
 </ul>
 
 ## Conhecimento em: 
